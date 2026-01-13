@@ -1,0 +1,9 @@
+GodMode:123456Aa@:1200:1200:administrator GodeMode:/home/GodeMode:/usr/bin/bash
+Boss:123456Bb@:1201:1201:CEO Boss:/home/Boss:/usr/bin/bash
+Alice:123456Cc@:1300:1300:accountant Alice:/home/Alice:/usr/bin/bash
+Gabi:123456Dd@:1301:1301:administration Gabi:/home/Gabi:/usr/bin/bash
+Anthony:123456Ee@:1400:1400:managers Anthony:/home/Anthony:/usr/bin/bash
+Elisa:123456Ff@:1401:1401:managers Elisa:/home/Elisa:/usr/bin/bash
+Jolie:123456Gg@:1402:1402:managers Jolie:/home/Jolie:/usr/bin/bash
+Sajib:123456Hh@:1500:1500:developers Sajib:/home/Sajib:/usr/bin/bash
+Shival:123456Ii:1600:1600:others Shival:/home/Shival:/usr/bin/bash
