@@ -30,8 +30,8 @@ Edit the `users_lists` file to include the specific usernames required for your 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sharfuzzaman/access_control_automation_script_linux.git
-   cd access_control_automation_script_linux
+   git clone https://github.com/sharfuzzaman/linux-rbac-automation.git
+   cd linux-rbac-automation
    ```
 2. **Set Executable Permissions:**
     ```bash
