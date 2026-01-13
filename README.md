@@ -9,7 +9,7 @@ This repository provides an automated shell script solution (`access_control_lin
 
 ## 📋 Prerequisites
 
-* **Environment:** Linux-based OS (Ubuntu/Debian/CentOS recommended in a VM).
+* **Environment:** Linux-based OS (Debian based distribution such as Debain/Fedora/Linux Mint recommended in a VM).
 * **Privileges:** Root or sudo access is required for execution.
 
 ## ⚙️ Configuration
